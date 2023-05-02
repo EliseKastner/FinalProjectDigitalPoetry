@@ -1,0 +1,23 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	float: right;
+	background-color: #A52A2A;
+}
+
+li a {
+	display: block;
+	color: #F0F8FF;
+	padding: 8px 16px;
+}
+
+li a:hover {
+	background-color: #5F9EA0;
+	color: #F8F8FF;
+}
+
+body{
+	font-family: Georgia, Garomond, serif;
+}
